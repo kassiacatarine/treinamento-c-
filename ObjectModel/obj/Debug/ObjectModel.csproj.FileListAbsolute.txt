@@ -1,0 +1,6 @@
+C:\Users\kassia\source\repos\ConUI\ObjectModel\obj\Debug\ObjectModel.csprojResolveAssemblyReference.cache
+C:\Users\kassia\source\repos\ConUI\ObjectModel\obj\Debug\ObjectModel.csproj.CoreCompileInputs.cache
+C:\Users\kassia\source\repos\ConUI\ObjectModel\bin\Debug\ObjectModel.dll
+C:\Users\kassia\source\repos\ConUI\ObjectModel\bin\Debug\ObjectModel.pdb
+C:\Users\kassia\source\repos\ConUI\ObjectModel\obj\Debug\ObjectModel.dll
+C:\Users\kassia\source\repos\ConUI\ObjectModel\obj\Debug\ObjectModel.pdb

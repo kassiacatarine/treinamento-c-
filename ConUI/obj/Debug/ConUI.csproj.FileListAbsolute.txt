@@ -1,0 +1,9 @@
+C:\Users\kassia\source\repos\ConUI\ConUI\obj\Debug\ConUI.csproj.CoreCompileInputs.cache
+C:\Users\kassia\source\repos\ConUI\ConUI\obj\Debug\ConUI.csprojResolveAssemblyReference.cache
+C:\Users\kassia\source\repos\ConUI\ConUI\bin\Debug\ConUI.exe.config
+C:\Users\kassia\source\repos\ConUI\ConUI\bin\Debug\ConUI.exe
+C:\Users\kassia\source\repos\ConUI\ConUI\bin\Debug\ConUI.pdb
+C:\Users\kassia\source\repos\ConUI\ConUI\bin\Debug\ObjectModel.dll
+C:\Users\kassia\source\repos\ConUI\ConUI\bin\Debug\ObjectModel.pdb
+C:\Users\kassia\source\repos\ConUI\ConUI\obj\Debug\ConUI.exe
+C:\Users\kassia\source\repos\ConUI\ConUI\obj\Debug\ConUI.pdb
